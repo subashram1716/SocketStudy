@@ -93,7 +93,7 @@ while True:
 c.close()
 ```
 
-##output:
+## output:
 
 <img width="574" height="214" alt="Screenshot 2026-01-31 131538" src="https://github.com/user-attachments/assets/a1c51efd-fc02-485a-942a-290b1791aee4" />
 
